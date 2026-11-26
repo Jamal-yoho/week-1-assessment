@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 1 Assessment
 
 ## Setup Instructions
@@ -13,3 +14,6 @@
 3. Duplicate employee record were removed.
 4. Department-wise employee counts and salary averages were analyzed.
 5. Bar, histogram, scatter and line charts were created.
+=======
+Main branch README update 
+>>>>>>> main
